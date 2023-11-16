@@ -13,11 +13,11 @@ The dataset contains around 7k fake news, including a title, body, and label
 (FAKE or REAL). The task is to train the data to predict if the given news is
 fake or real.
 # Project Outcomes:
-• Pre-process the data to remove stop words. Stop words are the most occurring words in the language. It’s necessary to filter that out first.
+1. Pre-process the data to remove stop words. Stop words are the most occurring words in the language. It’s necessary to filter that out first.
 
-• Evaluate the various algorithms which can affect the best outcome
+2. Evaluate the various algorithms which can affect the best outcome
 
-• Train a model to predict the likelihood of REAL news.
+3. Train a model to predict the likelihood of REAL news.
 
 # Actual Outcomes:
 Our final project for 4AI3 involves developing a fake news detection system. Our team, consisting of Matteo Cario, Haider Khan, Nur Tawfeeq, Amrit Maharaj, Daniel Graham, and Christina Mathews, is focusing on leveraging various machine learning models to differentiate between 'Fake' and 'Real' news. Here's an overview of what we are accomplishing:
