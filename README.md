@@ -19,7 +19,7 @@ fake or real.
 
 • Train a model to predict the likelihood of REAL news.
 
-# Actual Outcomes
+# Actual Outcomes:
 Our final project for 4AI3 involves developing a fake news detection system. Our team, consisting of Matteo Cario, Haider Khan, Nur Tawfeeq, Amrit Maharaj, Daniel Graham, and Christina Mathews, is focusing on leveraging various machine learning models to differentiate between 'Fake' and 'Real' news. Here's an overview of what we are accomplishing:
 
 **Packages:** We are utilizing Python libraries such as Pandas for data handling, NLTK for natural language tasks, along with Matplotlib and Seaborn for visualization, and Sklearn for its machine learning capabilities.
